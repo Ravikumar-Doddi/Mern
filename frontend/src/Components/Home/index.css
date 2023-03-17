@@ -1,0 +1,11 @@
+.add-btn{
+    align-self: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 60px;
+    width: 120px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
